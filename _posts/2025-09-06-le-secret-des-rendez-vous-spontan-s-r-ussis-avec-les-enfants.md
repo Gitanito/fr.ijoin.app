@@ -4,6 +4,7 @@ title: Le Secret des Rendez-vous Spontanés Réussis avec les Enfants
 subtitle: Organisez vos sorties de groupe sans la corvée des messages interminables
 tags: [organisation événement, sortie parents enfants]
 author: ijoin.app
+language: fr
 ---
 
 # Organisation de Sorties Parents-Enfants - Finie la Confusion des Groupes WhatsApp

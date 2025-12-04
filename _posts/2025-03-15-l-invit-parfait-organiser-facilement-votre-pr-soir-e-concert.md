@@ -4,6 +4,7 @@ title: L'Invité Parfait - Organiser Facilement Votre Pré-Soirée Concert
 subtitle: Maximisez les réponses pour votre événement privé sans tracas ni inscriptions
 tags: [organisation événementielle,pré-soirée concert]
 author: ijoin.app
+language: fr
 ---
 # L'Invité Parfait - Organiser Facilement Votre Pré-Soirée Concert
 

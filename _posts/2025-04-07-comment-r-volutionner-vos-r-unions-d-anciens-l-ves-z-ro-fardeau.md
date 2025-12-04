@@ -4,6 +4,7 @@ title: Comment Révolutionner Vos Réunions d'Anciens Élèves - Zéro Fardeau
 subtitle: Maximisez la Participation à Vos Stammtisch et Réseaux d'Alumni
 tags: [Alumni, Événementiel]
 author: ijoin.app
+language: fr
 ---
 # L'organisation de votre prochain Stammtisch Alumni sans la migraine de l'inscription
 

@@ -4,6 +4,7 @@ title: Le Secret des Réunions d'Affaires Réussies
 subtitle: Maximisez la Participation à Vos Stammtisch et Réseaux Locaux
 tags: [organisation d'événements, réseau professionnel]
 author: ijoin.app
+language: fr
 ---
 
 # Organisez des Stammtisch d'Entrepreneurs Locaux Sans Effort

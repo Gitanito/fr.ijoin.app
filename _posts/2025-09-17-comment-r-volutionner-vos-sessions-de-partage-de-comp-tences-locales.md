@@ -4,6 +4,7 @@ title: Comment Révolutionner Vos Sessions de Partage de Compétences Locales
 subtitle: Obtenez des inscriptions maximales sans friction ni compte utilisateur requis
 tags: [organisation événement, partage compétences]
 author: ijoin.app
+language: fr
 ---
 
 # Maximisez la Participation à Vos Ateliers Locaux de Partage de Compétences

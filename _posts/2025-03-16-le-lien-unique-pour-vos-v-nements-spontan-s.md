@@ -4,6 +4,7 @@ title: Le lien unique pour vos événements spontanés
 subtitle: Maximisez les réponses pour vos soirées improvisées sans inscription
 tags: [organisation événement, soirées spontanées]
 author: ijoin.app
+language: fr
 ---
 
 # Organisation éclair : Comment réunir vos amis pour un verre en 30 secondes

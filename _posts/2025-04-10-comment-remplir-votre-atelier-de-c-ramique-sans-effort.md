@@ -4,6 +4,7 @@ title: Comment Remplir Votre Atelier de Céramique Sans Effort
 subtitle: La solution simple pour maximiser les inscriptions à vos cours créatifs
 tags: [organisation événement, inscription cours]
 author: ijoin.app
+language: fr
 ---
 
 # Remplissez Vos Cours de Céramique - Adieu les Formulaires Compliqués

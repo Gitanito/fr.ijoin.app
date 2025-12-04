@@ -4,6 +4,7 @@ title: Simplifiez la Coordination des Bénévoles pour votre Événement
 subtitle: L'outil gratuit qui maximise la participation pour la coordination d'événements
 tags: [Coordination d'événements, Gestion des bénévoles]
 author: ijoin.app
+language: fr
 ---
 # Stop au Chaos - Coordonnez Facilement Vos Bénévoles pour le Prochain Événement de l'École
 

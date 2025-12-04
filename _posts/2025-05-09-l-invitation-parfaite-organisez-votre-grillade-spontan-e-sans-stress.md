@@ -4,6 +4,7 @@ title: L'invitation Parfaite - Organisez Votre Grillade Spontanée Sans Stress
 subtitle: Maximisez les réponses pour vos événements de dernière minute avec un seul lien
 tags: [organisation événement, RSVP facile]
 author: ijoin.app
+language: fr
 ---
 
 # L'organisation d'événements simplifiée - De la galère à la grillade réussie

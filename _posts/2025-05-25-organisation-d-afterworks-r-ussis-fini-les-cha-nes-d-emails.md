@@ -4,6 +4,7 @@ title: Organisation d'Afterworks Réussis - Fini les Chaînes d'Emails
 subtitle: L'outil gratuit qui maximise la participation à vos événements d'équipe
 tags: [organisation événement, afterwork facile]
 author: ijoin.app
+language: fr
 ---
 
 # Maximisez la Participation à Vos Afterworks Sans Effort

@@ -4,6 +4,7 @@ title: Organisation Facile du Public Viewing de l'Année
 subtitle: Maximisez la participation sans la galère des confirmations interminables
 tags: [Public Viewing, Organisation Événement]
 author: ijoin.app
+language: fr
 ---
 # Le Secret pour un Public Viewing Réussi et Sans Frictions
 

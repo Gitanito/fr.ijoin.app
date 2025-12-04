@@ -4,6 +4,7 @@ title: Comment Remplir Votre Prochaine Lecture Publique - Oubliez les Inscriptio
 subtitle: Organisez votre événement communautaire sans friction et maximisez votre taux de participation
 tags: [organisation d'événements, gestion d'invitations]
 author: ijoin.app
+language: fr
 ---
 
 # L'Art d'Organiser une Soirée Thématique Captivante : Plus d'Inscrits, Moins de Maux de Tête

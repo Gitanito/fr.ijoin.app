@@ -4,6 +4,7 @@ title: Comment organiser un événement spontané sans le chaos des confirmation
 subtitle: Le secret pour des invitations rapides et des réponses garanties- oubliez les longs formulaires
 tags: organisation evenement, gestion invites
 author: ijoin.app
+language: fr
 ---
 # L'organisation d'événements spontanés simplifiée - Moins de clics, plus de participants
 

@@ -4,6 +4,7 @@ title: Organisez vos événements de quartier sans friction- La solution pour de
 subtitle: Maximisez la participation à vos actions solidaires et rassemblements locaux
 tags: [organisation événement, entraide voisinage]
 author: ijoin.app
+language: fr
 ---
 # Le secret pour des inscriptions de voisinage instantanées et sans tracas
 

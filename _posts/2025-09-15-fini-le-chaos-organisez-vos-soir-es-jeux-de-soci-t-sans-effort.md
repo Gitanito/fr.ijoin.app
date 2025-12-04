@@ -4,6 +4,7 @@ title: Fini le chaos - Organisez vos soirées jeux de société sans effort
 subtitle: Simplifiez la gestion de vos événements récurrents et rassemblez vos amis en un clin d'œil.
 tags: [organisation événement, jeux de société]
 author: ijoin.app
+language: fr
 ---
 
 # Fini le chaos - Organisez vos soirées jeux de société sans effort

@@ -4,6 +4,7 @@ title: Comment les Coordinateurs Sportifs Simplifient la Gestion des Présences
 subtitle: Maximisez la participation aux entraînements et aux matchs sans jamais envoyer un e-mail de rappel
 tags: gestion evenement,sport amateur
 author: ijoin.app
+language: fr
 ---
 # Stop au Chaos des RSVPs- Simplifiez la **Gestion des Présences** de votre Équipe Sportive
 

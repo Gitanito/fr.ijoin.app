@@ -4,6 +4,7 @@ title: Simplifiez la réservation de vos entretiens Parents-Professeurs
 subtitle: Dites adieu aux formulaires papier et maximisez la participation des parents
 tags: [Gestion d'événements scolaires, Inscription en ligne]
 author: ijoin.app
+language: fr
 ---
 
 # Simplifiez la réservation de vos entretiens Parents-Professeurs avec [ijoin.app](https://ijoin.app/index-fr.html)

@@ -4,6 +4,7 @@ title: La Révolution des Covoiturages de Groupe - Simple et Sans Inscription
 subtitle: Organisez enfin vos trajets sportifs et événements réguliers sans les maux de tête habituels
 tags: [covoiturage, organisation événement]
 author: ijoin.app
+language: fr
 ---
 
 # Simplifiez l'Organisation de Vos Covoiturages Sportifs et Événementiels avec [ijoin.app](https://ijoin.app/index-fr.html)

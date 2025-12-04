@@ -4,6 +4,7 @@ title: Organisation d'Événements Scolaires - Fini le Chaos des RSVPs
 subtitle: Maximisez les réponses des parents sans inscription ni complications
 tags: [organisation événement, RSVP facile]
 author: ijoin.app
+language: fr
 ---
 
 # Organisation d'Événements Scolaires - Fini le Chaos des RSVPs

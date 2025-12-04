@@ -4,6 +4,7 @@ title: Organisez vos groupes d'étude sans friction - Optimisez la réussite des
 subtitle: Maximisez la participation des étudiants aux sessions de révision avec un outil sans inscription
 tags: organisation événement, groupe étude
 author: ijoin.app
+language: fr
 ---
 
 # La solution infaillible pour des groupes d'étude universitaires efficaces

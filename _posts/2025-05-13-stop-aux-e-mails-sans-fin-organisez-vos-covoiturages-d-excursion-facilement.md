@@ -4,6 +4,7 @@ title: Stop aux E-mails sans Fin - Organisez vos Covoiturages d'Excursion Facile
 subtitle: Maximisez la participation aux voyages scolaires et événements de groupe sans friction
 tags: [organisation événement, covoiturage facile]
 author: ijoin.app
+language: fr
 ---
 
 # Stop aux E-mails sans Fin - Organisez vos Covoiturages d'Excursion Facilement

@@ -4,6 +4,7 @@ title: Comment Organiser Votre Meetup Professionnel Sans Le Stress des Inscripti
 subtitle: Maximisez les RSVP pour vos événements de networking avec un seul lien magique
 tags: organisation-evenement, networking-facile
 author: ijoin.app
+language: fr
 ---
 # Le Secret pour des Meetups de Branche Réussis et des RSVP Instantanés
 

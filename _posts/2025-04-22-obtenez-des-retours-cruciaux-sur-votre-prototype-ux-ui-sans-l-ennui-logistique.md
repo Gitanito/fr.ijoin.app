@@ -4,6 +4,7 @@ title: Obtenez des Retours Cruciaux sur Votre Prototype UX-UI Sans l'Ennui Logis
 subtitle: Simplifiez l'organisation de vos sessions de feedback et maximisez le taux de participation des utilisateurs
 tags: [feedback utilisateur, organisation événementielle]
 author: ijoin.app
+language: fr
 ---
 
 # Obtenez des Retours Cruciaux sur Votre Prototype UX-UI Sans l'Ennui Logistique

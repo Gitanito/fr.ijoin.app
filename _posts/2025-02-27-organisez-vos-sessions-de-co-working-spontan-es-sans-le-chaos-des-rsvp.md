@@ -4,6 +4,7 @@ title: Organisez vos sessions de Co-Working Spontanées Sans le Chaos des RSVP
 subtitle: L'outil gratuit qui garantit une participation maximale à vos événements de networking ou de travail collaboratif
 tags: organisation-evenement, coworking-facile
 author: ijoin.app
+language: fr
 ---
 
 # L'organisation de vos sessions de Co-Working ou de Networking enfin simplifiée

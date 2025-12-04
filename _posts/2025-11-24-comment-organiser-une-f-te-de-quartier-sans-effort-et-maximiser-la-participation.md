@@ -4,6 +4,7 @@ title: Comment organiser une fête de quartier sans effort et maximiser la parti
 subtitle: La méthode simple pour coordonner les voisins, les tâches et les présences sans stress
 tags: [organisation événementielle, fête de quartier]
 author: ijoin.app
+language: fr
 ---
 
 # L'organisation d'événements communautaires simplifiée - Dites adieu aux chaînes d'e-mails interminables

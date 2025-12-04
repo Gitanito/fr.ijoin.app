@@ -4,6 +4,7 @@ title: Organisation de votre Club de Lecture Simplifiée
 subtitle: Maximisez les réponses aux invitations de votre club de lecture sans friction ni inscription
 tags: [Club de Lecture, Organisation Événement Facile]
 author: ijoin.app
+language: fr
 ---
 
 # L'outil Gratuit qui Transforme l'Organisation de vos Réunions de Club de Lecture

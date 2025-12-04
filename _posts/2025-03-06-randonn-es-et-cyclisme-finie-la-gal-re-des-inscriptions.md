@@ -4,6 +4,7 @@ title: Randonnées et Cyclisme - Finie la Galère des Inscriptions
 subtitle: Comment maximiser la participation à vos événements de plein air sans effort
 tags: [organisation evenement, randonnee]
 author: ijoin.app
+language: fr
 ---
 
 # Optimisez l'Organisation de vos Sorties Randonnée ou Vélo

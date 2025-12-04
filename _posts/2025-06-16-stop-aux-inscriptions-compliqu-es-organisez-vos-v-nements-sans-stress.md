@@ -4,6 +4,7 @@ title: Stop aux Inscriptions Compliquées - Organisez Vos Événements Sans Stre
 subtitle: L'outil gratuit qui maximise la participation sans aucun login ni mot de passe
 tags: [organisation evenement, gestion invites]
 author: ijoin.app
+language: fr
 ---
 # Marre des listes d'invités qui ne se remplissent jamais ? Voici la solution.
 

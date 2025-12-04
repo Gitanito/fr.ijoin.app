@@ -4,6 +4,7 @@ title: L'organisation de fête d'anniversaire sans stress
 subtitle: Maximisez les réponses aux invitations de vos événements privés ou associatifs
 tags: [organisation événement, RSVP facile]
 author: ijoin.app
+language: fr
 ---
 # Obtenez 100% de réponses pour la prochaine fête de votre enfant
 

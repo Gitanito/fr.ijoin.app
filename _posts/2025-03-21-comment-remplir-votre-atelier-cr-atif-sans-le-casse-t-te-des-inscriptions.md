@@ -4,6 +4,7 @@ title: Comment Remplir Votre Atelier Créatif sans le Casse-Tête des Inscriptio
 subtitle: L'outil gratuit qui maximise la participation aux événements et ateliers
 tags: événementiel, inscription facile
 author: ijoin.app
+language: fr
 ---
 
 # L'Inscription Simplifiée - Remplissez Vos Ateliers de Dessin et Événements Communautaires

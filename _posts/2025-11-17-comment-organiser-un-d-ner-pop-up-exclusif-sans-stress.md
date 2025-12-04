@@ -4,6 +4,7 @@ title: Comment organiser un dîner Pop-up exclusif sans stress
 subtitle: Maximisez les inscriptions d'influenceurs avec un lien unique et sans inscription
 tags: [organisation événementielle, dîner pop-up]
 author: ijoin.app
+language: fr
 ---
 
 # L'outil secret pour des événements exclusifs et sans friction

@@ -5,6 +5,7 @@ title: Invitez vos Beta-Testeurs Sans Friction
 subtitle: Maximisez la participation à vos événements de test produit sans inscription compliquée
 tags: [Beta-Test, Organisation Événementielle]
 author: ijoin.app
+language: fr
 ---
 # Invitez vos Beta-Testeurs Sans Friction- L'Outil Indispensable pour les Startups
 
